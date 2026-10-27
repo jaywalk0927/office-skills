@@ -1,9 +1,9 @@
 ---
 name: hct-family-event-leave
-description: "Use when HCT OmniEsol에서 경조휴가, 결혼 또는 탈상 관련 근태를 신청하려는 경우."
+description: "Use when 사내 OmniEsol에서 경조휴가, 결혼 또는 탈상 관련 근태를 신청하려는 경우."
 ---
 
-# HCT 경조휴가
+# 사내 경조휴가
 
 경조 사유와 대상 관계에 맞는 `경조`, `결혼`, `탈상`을 선택한다.
 

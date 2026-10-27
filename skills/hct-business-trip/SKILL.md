@@ -1,9 +1,9 @@
 ---
 name: hct-business-trip
-description: "Use when HCT OmniEsol에서 국내출장·해외출장 또는 오전·오후 반일 국내출장 근태를 신청하려는 경우."
+description: "Use when 사내 OmniEsol에서 국내출장·해외출장 또는 오전·오후 반일 국내출장 근태를 신청하려는 경우."
 ---
 
-# HCT 출장
+# 사내 출장
 
 출장 지역과 전일·반일 일정에 맞는 출장 근태를 신청한다.
 

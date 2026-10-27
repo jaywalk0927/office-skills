@@ -1,4 +1,4 @@
 interface:
-  display_name: "HCT 시프트 근무"
-  short_description: "HCT 하루 단위 시프트의 시간·식사와 야간 안내 확인"
-  default_prompt: "$hct-shift-work 스킬로 희망 날짜와 시간에 맞는 HCT 시프트 신청 내용을 확인해 줘."
+  display_name: "사내 시프트 근무"
+  short_description: "사내 하루 단위 시프트의 시간·식사와 야간 안내 확인"
+  default_prompt: "$hct-shift-work 스킬로 희망 날짜와 시간에 맞는 사내 시프트 신청 내용을 확인해 줘."

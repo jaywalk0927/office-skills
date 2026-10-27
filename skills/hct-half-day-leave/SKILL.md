@@ -1,9 +1,9 @@
 ---
 name: hct-half-day-leave
-description: "Use when HCT ERP에서 오전·오후 0.5일 연차인 반차를 신청하거나 초안을 준비할 때. 반반차·먼저간DAY·0.75일 조합 요청은 제외한다."
+description: "Use when 사내 ERP에서 오전·오후 0.5일 연차인 반차를 신청하거나 초안을 준비할 때. 반반차·먼저간DAY·0.75일 조합 요청은 제외한다."
 ---
 
-# HCT 반차 신청
+# 사내 반차 신청
 
 실제 브라우저 작업 전 [공통 작업 절차](references/workflow.md)를 읽는다. 이 스킬 폴더 하나로 실행할 수 있다.
 

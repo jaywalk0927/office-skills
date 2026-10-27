@@ -1,9 +1,9 @@
 ---
 name: hct-early-friday-leave
-description: "Use when HCT의 먼저간DAY·먼저간데이 신청이나 해당 사용조건 확인이 필요한 경우. 일반 오후 반차나 다른 기타휴가 신청은 제외한다."
+description: "Use when 사내 먼저간DAY·먼저간데이 신청이나 해당 사용조건 확인이 필요한 경우. 일반 오후 반차나 다른 기타휴가 신청은 제외한다."
 ---
 
-# HCT 먼저간DAY 신청
+# 사내 먼저간DAY 신청
 
 실제 브라우저 작업 전 [공통 작업 절차](references/workflow.md)를 읽는다. 이 스킬 폴더 하나로 실행할 수 있다.
 

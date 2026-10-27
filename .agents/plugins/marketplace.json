@@ -1,7 +1,7 @@
 {
   "name": "hct-team",
   "interface": {
-    "displayName": "HCT 팀 업무 플러그인"
+    "displayName": "사내 팀 업무 플러그인"
   },
   "plugins": [
     {

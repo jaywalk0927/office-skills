@@ -1,4 +1,4 @@
 interface:
-  display_name: "HCT 반차 신청"
+  display_name: "사내 반차 신청"
   short_description: "오전·오후 반차의 구분과 0.5일 계산을 확인해 준비합니다"
-  default_prompt: "$hct-half-day-leave 필요한 정보 중 빠진 것만 나에게 확인하면서 HCT 반차 신청 작업을 도와줘."
+  default_prompt: "$hct-half-day-leave 필요한 정보 중 빠진 것만 나에게 확인하면서 사내 반차 신청 작업을 도와줘."

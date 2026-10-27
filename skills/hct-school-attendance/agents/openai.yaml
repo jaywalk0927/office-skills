@@ -1,4 +1,4 @@
 interface:
-  display_name: "HCT 학사"
+  display_name: "사내 학사"
   short_description: "학사 일정의 목적과 사용 시간에 맞춘 근태 신청 안내"
-  default_prompt: "$hct-school-attendance 스킬을 사용해 HCT 학사 요청을 진행해줘. 이미 제공한 정보는 사용하고 누락된 사실만 물어봐."
+  default_prompt: "$hct-school-attendance 스킬을 사용해 사내 학사 요청을 진행해줘. 이미 제공한 정보는 사용하고 누락된 사실만 물어봐."

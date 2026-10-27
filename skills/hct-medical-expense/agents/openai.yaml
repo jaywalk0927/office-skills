@@ -1,0 +1,4 @@
+interface:
+  display_name: "사내 의료비 지원 신청"
+  short_description: "PDF·이미지 영수증을 읽고 결재자를 확인해 의료비 신청을 준비합니다"
+  default_prompt: "$hct-medical-expense 첨부한 PDF와 영수증 이미지로 사내 의료비 지원 신청서를 작성해줘. 상급 결재자와 빠진 정보는 나에게 확인해줘."

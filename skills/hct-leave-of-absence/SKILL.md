@@ -1,9 +1,9 @@
 ---
 name: hct-leave-of-absence
-description: "Use when HCT OmniEsol에서 일반휴직을 휴직 항목으로 신청하려는 경우. 육아휴직과 모성보호 신청은 제외한다."
+description: "Use when 사내 OmniEsol에서 일반휴직을 휴직 항목으로 신청하려는 경우. 육아휴직과 모성보호 신청은 제외한다."
 ---
 
-# HCT 일반휴직
+# 사내 일반휴직
 
 육아휴직 이외의 일반휴직 요청을 `휴직` 세부값으로 처리한다.
 

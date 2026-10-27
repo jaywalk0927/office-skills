@@ -1,4 +1,4 @@
 interface:
-  display_name: "HCT 연중휴가"
+  display_name: "사내 연중휴가"
   short_description: "연중휴가의 정확한 분류 선택과 사용 일정·신청 확인"
-  default_prompt: "$hct-year-round-leave 스킬을 사용해 HCT 연중휴가 요청을 진행해줘. 이미 제공한 정보는 사용하고 누락된 사실만 물어봐."
+  default_prompt: "$hct-year-round-leave 스킬을 사용해 사내 연중휴가 요청을 진행해줘. 이미 제공한 정보는 사용하고 누락된 사실만 물어봐."

@@ -1,4 +1,4 @@
 interface:
-  display_name: "HCT 근태 신청 취소"
+  display_name: "사내 근태 신청 취소"
   short_description: "취소 대상 근태를 정확히 찾아 변경사유와 취소 반영을 확인합니다"
-  default_prompt: "$hct-attendance-cancel 필요한 정보 중 빠진 것만 나에게 확인하면서 HCT 근태 신청 취소 작업을 도와줘."
+  default_prompt: "$hct-attendance-cancel 필요한 정보 중 빠진 것만 나에게 확인하면서 사내 근태 신청 취소 작업을 도와줘."

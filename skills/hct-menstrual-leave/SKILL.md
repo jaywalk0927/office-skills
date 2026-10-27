@@ -1,9 +1,9 @@
 ---
 name: hct-menstrual-leave
-description: "Use when HCT OmniEsol에서 생휴 항목으로 근태를 신청하려는 경우."
+description: "Use when 사내 OmniEsol에서 생휴 항목으로 근태를 신청하려는 경우."
 ---
 
-# HCT 생휴
+# 사내 생휴
 
 사용자가 요청한 생휴를 `생휴` 근태로 신청한다.
 

@@ -1,9 +1,9 @@
 ---
 name: hct-year-round-leave
-description: "Use when HCT OmniEsol에서 연중휴가를 신청하려는 경우. 일반 연차 신청이나 신청내역의 단순 조회·취소와 구분한다."
+description: "Use when 사내 OmniEsol에서 연중휴가를 신청하려는 경우. 일반 연차 신청이나 신청내역의 단순 조회·취소와 구분한다."
 ---
 
-# HCT 연중휴가
+# 사내 연중휴가
 
 연중휴가 목적의 근태를 `연중` 항목으로 신청한다.
 

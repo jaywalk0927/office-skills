@@ -1,4 +1,4 @@
 interface:
-  display_name: "HCT 출장"
+  display_name: "사내 출장"
   short_description: "국내·해외 및 오전·오후 구분에 맞춘 출장 근태 신청"
-  default_prompt: "$hct-business-trip 스킬을 사용해 HCT 출장 요청을 진행해줘. 이미 제공한 정보는 사용하고 누락된 사실만 물어봐."
+  default_prompt: "$hct-business-trip 스킬을 사용해 사내 출장 요청을 진행해줘. 이미 제공한 정보는 사용하고 누락된 사실만 물어봐."

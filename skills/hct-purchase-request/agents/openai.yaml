@@ -1,4 +1,4 @@
 interface:
-  display_name: "HCT 구매요청서 작성"
-  short_description: "필요한 정보를 물어보고 구매요청 초안·첨부 점검과 Chrome ERP 작업을 돕습니다"
+  display_name: "사내 구매요청서 작성"
+  short_description: "필요한 정보를 물어보고 구매요청 초안·첨부 점검과 ERP 브라우저 작업을 돕습니다"
   default_prompt: "$hct-purchase-request 소속·직급·사용장소 등 필요한 정보를 나에게 차례로 물어보면서 첨부자료 기준으로 구매요청서를 작성해줘."

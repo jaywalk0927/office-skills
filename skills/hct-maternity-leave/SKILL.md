@@ -1,9 +1,9 @@
 ---
 name: hct-maternity-leave
-description: "Use when HCT OmniEsol에서 모성보호의 산휴·출산·난임·태아검진 항목으로 근태를 신청하는 경우. 육아휴직과 구분한다."
+description: "Use when 사내 OmniEsol에서 모성보호의 산휴·출산·난임·태아검진 항목으로 근태를 신청하는 경우. 육아휴직과 구분한다."
 ---
 
-# HCT 모성보호
+# 사내 모성보호
 
 모성보호 요청을 화면의 해당 사유와 사용 일정에 맞춰 신청한다.
 

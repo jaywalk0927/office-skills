@@ -1,4 +1,4 @@
 interface:
-  display_name: "HCT 근태 신청내역 조회"
+  display_name: "사내 근태 신청내역 조회"
   short_description: "신청일 기준 조회와 F2 실행으로 근태·근무 접수 상태를 확인합니다"
-  default_prompt: "$hct-attendance-status 필요한 정보 중 빠진 것만 나에게 확인하면서 HCT 근태 신청내역 조회 작업을 도와줘."
+  default_prompt: "$hct-attendance-status 필요한 정보 중 빠진 것만 나에게 확인하면서 사내 근태 신청내역 조회 작업을 도와줘."

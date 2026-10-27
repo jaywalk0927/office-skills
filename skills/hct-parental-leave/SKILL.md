@@ -1,9 +1,9 @@
 ---
 name: hct-parental-leave
-description: "Use when HCT OmniEsol에서 육아휴직을 신청하려는 경우. 일반휴직·산휴·출산 및 신청내역의 단순 조회·취소와 구분한다."
+description: "Use when 사내 OmniEsol에서 육아휴직을 신청하려는 경우. 일반휴직·산휴·출산 및 신청내역의 단순 조회·취소와 구분한다."
 ---
 
-# HCT 육아휴직
+# 사내 육아휴직
 
 육아휴직 요청을 `휴직` 분류의 `육아휴직` 세부값으로 신청한다.
 

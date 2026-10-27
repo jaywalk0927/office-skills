@@ -1,4 +1,4 @@
 interface:
-  display_name: "HCT 훈련"
+  display_name: "사내 훈련"
   short_description: "교육과 구분한 훈련 일정의 근태 분류 및 신청 확인"
-  default_prompt: "$hct-drill-attendance 스킬을 사용해 HCT 훈련 요청을 진행해줘. 이미 제공한 정보는 사용하고 누락된 사실만 물어봐."
+  default_prompt: "$hct-drill-attendance 스킬을 사용해 사내 훈련 요청을 진행해줘. 이미 제공한 정보는 사용하고 누락된 사실만 물어봐."

@@ -1,9 +1,9 @@
 ---
 name: hct-reward-leave
-description: "Use when HCT OmniEsol에서 부여된 포상휴가를 신청하려는 경우."
+description: "Use when 사내 OmniEsol에서 부여된 포상휴가를 신청하려는 경우."
 ---
 
-# HCT 포상휴가
+# 사내 포상휴가
 
 부여된 포상휴가와 사용 일정을 맞춰 `포상휴가`로 신청한다.
 

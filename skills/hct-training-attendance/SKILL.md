@@ -1,9 +1,9 @@
 ---
 name: hct-training-attendance
-description: "Use when HCT OmniEsol에서 교육 참석을 교육 근태로 신청하려는 경우. 기타휴가/근태의 훈련 항목과 구분한다."
+description: "Use when 사내 OmniEsol에서 교육 참석을 교육 근태로 신청하려는 경우. 기타휴가/근태의 훈련 항목과 구분한다."
 ---
 
-# HCT 교육
+# 사내 교육
 
 교육 참석 일정을 교육 근태로 반영한다.
 

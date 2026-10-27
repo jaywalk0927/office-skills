@@ -1,9 +1,9 @@
 ---
 name: hct-remote-work
-description: "Use when HCT OmniEsol에서 재택근무를 기타휴가/근태의 재택 항목으로 신청하려는 경우."
+description: "Use when 사내 OmniEsol에서 재택근무를 기타휴가/근태의 재택 항목으로 신청하려는 경우."
 ---
 
-# HCT 재택근무
+# 사내 재택근무
 
 재택근무 일정을 `재택` 근태로 신청한다.
 

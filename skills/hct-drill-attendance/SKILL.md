@@ -1,9 +1,9 @@
 ---
 name: hct-drill-attendance
-description: "Use when HCT OmniEsol에서 훈련 참석을 기타휴가/근태의 훈련 항목으로 신청하려는 경우. 교육 근태 신청과 구분한다."
+description: "Use when 사내 OmniEsol에서 훈련 참석을 기타휴가/근태의 훈련 항목으로 신청하려는 경우. 교육 근태 신청과 구분한다."
 ---
 
-# HCT 훈련
+# 사내 훈련
 
 훈련 일정을 `훈련` 근태로 반영한다.
 

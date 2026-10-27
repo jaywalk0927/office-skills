@@ -1,4 +1,4 @@
 interface:
-  display_name: "HCT 경조휴가"
+  display_name: "사내 경조휴가"
   short_description: "경조·결혼·탈상 사유에 맞는 경조휴가 분류와 신청"
-  default_prompt: "$hct-family-event-leave 스킬을 사용해 HCT 경조휴가 요청을 진행해줘. 이미 제공한 정보는 사용하고 누락된 사실만 물어봐."
+  default_prompt: "$hct-family-event-leave 스킬을 사용해 사내 경조휴가 요청을 진행해줘. 이미 제공한 정보는 사용하고 누락된 사실만 물어봐."

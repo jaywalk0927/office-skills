@@ -1,4 +1,4 @@
 interface:
-  display_name: "HCT 야간근무"
-  short_description: "HCT 야간근무의 시간 선택·날짜와 전자결재 계획서 확인"
-  default_prompt: "$hct-night-work 스킬로 HCT 야간근무 신청 시간과 필요한 계획서를 확인해 줘."
+  display_name: "사내 야간근무"
+  short_description: "사내 야간근무의 시간 선택·날짜와 전자결재 계획서 확인"
+  default_prompt: "$hct-night-work 스킬로 사내 야간근무 신청 시간과 필요한 계획서를 확인해 줘."

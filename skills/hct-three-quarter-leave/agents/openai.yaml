@@ -1,4 +1,4 @@
 interface:
-  display_name: "HCT 0.75일 조합 연차 신청"
+  display_name: "사내 0.75일 조합 연차 신청"
   short_description: "반반차 0.25일과 반차 0.5일 두 건으로 조합 연차를 준비합니다"
-  default_prompt: "$hct-three-quarter-leave 필요한 정보 중 빠진 것만 나에게 확인하면서 HCT 0.75일 조합 연차 신청 작업을 도와줘."
+  default_prompt: "$hct-three-quarter-leave 필요한 정보 중 빠진 것만 나에게 확인하면서 사내 0.75일 조합 연차 신청 작업을 도와줘."

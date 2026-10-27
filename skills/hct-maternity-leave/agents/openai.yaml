@@ -1,4 +1,4 @@
 interface:
-  display_name: "HCT 모성보호"
+  display_name: "사내 모성보호"
   short_description: "산휴·출산·난임·태아검진별 모성보호 근태 신청 안내"
-  default_prompt: "$hct-maternity-leave 스킬을 사용해 HCT 모성보호 요청을 진행해줘. 이미 제공한 정보는 사용하고 누락된 사실만 물어봐."
+  default_prompt: "$hct-maternity-leave 스킬을 사용해 사내 모성보호 요청을 진행해줘. 이미 제공한 정보는 사용하고 누락된 사실만 물어봐."

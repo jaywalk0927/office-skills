@@ -1,9 +1,9 @@
 ---
 name: hct-substitute-leave
-description: "Use when HCT OmniEsol에서 대체휴가·대휴 또는 이번 주 휴일근무 예정자의 대체휴가 신청이 필요한 경우. 시간 단위 보상휴가와 구분한다."
+description: "Use when 사내 OmniEsol에서 대체휴가·대휴 또는 이번 주 휴일근무 예정자의 대체휴가 신청이 필요한 경우. 시간 단위 보상휴가와 구분한다."
 ---
 
-# HCT 대체휴가
+# 사내 대체휴가
 
 휴일근무 예정 여부와 사용 목적에 맞는 대체휴가 세부값을 선택한다.
 

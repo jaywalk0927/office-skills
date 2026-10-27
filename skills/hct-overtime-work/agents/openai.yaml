@@ -1,4 +1,4 @@
 interface:
-  display_name: "HCT 잔업"
-  short_description: "HCT 잔업의 타각·근무시간 조건과 신청기한 확인"
-  default_prompt: "$hct-overtime-work 스킬로 근무기록과 신청기한을 확인하고 HCT 잔업 신청을 준비해 줘."
+  display_name: "사내 잔업"
+  short_description: "사내 잔업의 타각·근무시간 조건과 신청기한 확인"
+  default_prompt: "$hct-overtime-work 스킬로 근무기록과 신청기한을 확인하고 사내 잔업 신청을 준비해 줘."
