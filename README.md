@@ -8,34 +8,35 @@
 
 ## 팀원 설치
 
-저장소: [jaywalk0927/hct-office](https://github.com/jaywalk0927/hct-office)
+저장소: [jaywalk0927/office-skills](https://github.com/jaywalk0927/office-skills)
 
 GitHub CLI를 사용할 때는 GitHub 계정으로 로그인한 뒤 받습니다. ERP 또는 그룹웨어 로그인은 별도로 필요합니다.
 
 ```powershell
 gh auth login
-gh repo clone jaywalk0927/hct-office
-cd hct-office
+gh repo clone jaywalk0927/office-skills
+cd office-skills
 codex plugin marketplace add .
 codex plugin add hct-office@hct-team
 ```
 
-이미 GitHub 인증이 되어 있으면 로그인 단계를 생략합니다. Git만 사용하는 경우에는 `git clone https://github.com/jaywalk0927/hct-office.git`으로 받은 뒤 나머지 명령을 실행합니다.
+이미 GitHub 인증이 되어 있으면 로그인 단계를 생략합니다. Git만 사용하는 경우에는 `git clone https://github.com/jaywalk0927/office-skills.git`으로 받은 뒤 나머지 명령을 실행합니다.
 
 CLI 대신 Codex의 플러그인 화면에서 등록된 **사내 팀 업무 플러그인** 마켓플레이스를 선택하고 **사내 업무 도우미**를 설치해도 됩니다. 설치 후 새 채팅에서 사용하며, 목록이 갱신되지 않으면 앱을 다시 시작합니다.
 
 소스 폴더를 따로 관리하지 않으려면 다음과 같이 저장소를 마켓플레이스로 직접 등록할 수도 있습니다. 두 방법 중 하나를 사용합니다.
 
 ```powershell
-codex plugin marketplace add jaywalk0927/hct-office --ref main
+codex plugin marketplace add jaywalk0927/office-skills --ref main
 codex plugin add hct-office@hct-team
 ```
 
 ## 팀원 업데이트
 
-직접 clone한 폴더를 등록한 경우 해당 폴더에서 실행합니다. `--ff-only`는 로컬 수정과 충돌하는 변경을 자동으로 합치지 않습니다.
+직접 clone한 폴더를 등록한 경우 해당 폴더에서 실행합니다. 이름 변경 전 주소로 받은 폴더도 원격 주소를 갱신한 뒤 업데이트합니다. `--ff-only`는 로컬 수정과 충돌하는 변경을 자동으로 합치지 않습니다.
 
 ```powershell
+git remote set-url origin https://github.com/jaywalk0927/office-skills.git
 git pull --ff-only
 codex plugin add hct-office@hct-team
 ```
