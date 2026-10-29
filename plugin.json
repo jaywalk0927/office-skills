@@ -1,7 +1,7 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "hct-office",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "사내 구매요청·근태와 그룹웨어 의료비 지원 신청을 돕는 28개 업무 스킬 모음입니다.",
   "keywords": [
     "office",
